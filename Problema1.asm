@@ -80,7 +80,7 @@ msg db "Digite o valor de um lado: $"
 equilatero db "Triangulo Equilatero $"
 isosceles db "Triangulo Isosceles $"
 escaleno db "Triangulo Escaleno $"
-ten dw 10
+ten dw 10  ; variavel pra funcao propria do emulador
             
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
