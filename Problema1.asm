@@ -10,7 +10,7 @@ call SCAN_NUM ; chama a funcao pra capturar o primeiro lado
 mov bx, cx    ; aramazena o lado digitado pra bx  
 
 
-putc 0Dh      ; pular linha (copiado da pratica3 disponivel no ava)
+putc 0Dh      ; pular linha
 putc 0Ah      ; pular linha 
 
  
