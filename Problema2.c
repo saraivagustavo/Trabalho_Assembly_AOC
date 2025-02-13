@@ -22,7 +22,7 @@ int main(){
 
     // PROCESSAMENTO
     if(posicaoX < posicaoY){
-        if (velocidadeX < velocidadeY){
+        if (velocidadeX <= velocidadeY){
             printf("Carro X com velocidade inferior a carro Y, logo não ultrapassará. \n");
             return 0;
         }
@@ -36,7 +36,7 @@ int main(){
         printf("Carro X ultrapassou Carro Y na hora %d após o KM %d \n", cont, posicaoY);
     }
     else{
-        if (velocidadeY < velocidadeX){
+        if (velocidadeY <= velocidadeX){
             printf("Carro Y com velocidade inferior a carro X, logo não ultrapassará. \n");
             return 0;
         }
