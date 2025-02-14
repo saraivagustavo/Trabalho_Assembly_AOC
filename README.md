@@ -19,7 +19,10 @@ Armazena os arquivos `.asm` com a implementação dos programas desenvolvidos no
 | Aluno | GitHub | LinkedIn |
 |-------|--------|----------|
 | Gustavo Saraiva Mariano | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-mariano/) |
+| Luma Tavares Lopes | [![GitHub]([![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)(https://github.com/LumaTavares)) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]() |
 | Pedro Henrique Albani Nunes | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/PedroAlbaniNunes) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-albani-nunes-33a729270/) |
+| Pedro Renã da Silva | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/PedroAlbaniNunes) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-albani-nunes-33a729270/) |
+| Tertuliano dos Santos | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]() | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]() |
 
 ---
 
